@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TiagoX9/stok/static/css/main.ab429867.css",
+    "main.js": "/TiagoX9/stok/static/js/main.8f17a1ca.js",
+    "static/js/787.716fd082.chunk.js": "/TiagoX9/stok/static/js/787.716fd082.chunk.js",
+    "static/media/Sammy_Floofpaper.pdf": "/TiagoX9/stok/static/media/Sammy_Floofpaper.074208b473d8e53ca789.pdf",
+    "static/media/wallpaper.png": "/TiagoX9/stok/static/media/wallpaper.99d9b8ab34f754921b55.png",
+    "index.html": "/TiagoX9/stok/index.html",
+    "main.ab429867.css.map": "/TiagoX9/stok/static/css/main.ab429867.css.map",
+    "main.8f17a1ca.js.map": "/TiagoX9/stok/static/js/main.8f17a1ca.js.map",
+    "787.716fd082.chunk.js.map": "/TiagoX9/stok/static/js/787.716fd082.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab429867.css",
+    "static/js/main.8f17a1ca.js"
+  ]
+}
